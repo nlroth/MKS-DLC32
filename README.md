@@ -1,5 +1,5 @@
 # MKS DLC32
-MKS DLC32 motherboard kit, which is an offline engraving master control kit developed for desktop engraving machines. The hardware is equipped with a 32-bit high-speed ESP32 module, integrated WIFI function, and directly drives a 3.5-inch touch color screen; it can realize fast engraving and WEB web pages. Control, mobile phone APP control and other functions.  
+MKS DLC32 motherboard kit, which is an offline engraving master control kit developed for desktop engraving machines. The hardware is equipped with a 32-bit high-speed ESP32 module, integrated WIFI function, and directly drives a 3.5-inch touch color screen; it can realize fast engraving and WEB web pages. Control, mobile phone APP control and other functions.   
 The mounting holes and board size of MKS DLC32 are compatible with MKS DLC, and the it can also be used with the LaserGRBL and LightBurn PC software.
 ![DLC32+TS35_无字](https://user-images.githubusercontent.com/48378586/146530266-fc1c28af-9f99-4412-91ab-63fa972041b1.png)
 # Video for Instruction
